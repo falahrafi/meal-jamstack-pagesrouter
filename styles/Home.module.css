@@ -29,6 +29,7 @@
 
 .card {
     min-width: 15vw;
+    margin: 12px;
     /* border: 2px solid lightgrey; */
     text-align: center;
     /* padding: 0.5rem; */
@@ -47,8 +48,8 @@
 .imgContainer {
     margin: 0.5rem 0;
     position: relative;
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 100%;
     overflow: hidden;
     z-index: 1;
 }

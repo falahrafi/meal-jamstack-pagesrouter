@@ -11,6 +11,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
+        mavenPro: ["Maven Pro", "sans-serif"],
+      },
     },
   },
   plugins: [],
